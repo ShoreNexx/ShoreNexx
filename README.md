@@ -11,7 +11,7 @@
 
 ```bash
 shorenexx@github
-Name:...................... Sahil Mhatre
+Whoami:...................... Sahil Mhatre
 OS: ....................... Pop os 22.04 LTS, Windows 11
 Uptime: ................... 20 years, 8 months, 15 days
 
