@@ -12,13 +12,13 @@
 ```bash
 shorenexx@github
 Whoami:.................... Sahil Mhatre
-OS: ....................... Pop os 22.04 LTS, Windows 11
-Uptime: ................... 20 years, 8 months, 15 days
+OS: ....................... Pop os 24.04 LTS, Windows 11
 
-Languages.Programming: .... JavaScript, Python, C
-Languages.Web: ............ HTML, CSS, React, Flask, Django
-Languages.Database: ....... MySQL, PostgreSQL
-Languages.DevOps: ......... Docker, AWS
+Languages.Programming: .... Java, JavaScript
+Languages.Web: ............ HTML, CSS, React
+Languages.Database: ....... OracleSQL, PostgreSQL
+
+Java.Backend: ............. JDBC, Hibernate
 Languages.Real: ........... English, Marathi, Hindi
 
 Focus.Current: ............ Full-stack Development & DevOps
@@ -28,20 +28,10 @@ Focus.Learning: ........... Backend & Cloud Architecture
 
 ## 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+<div>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,react,tailwind,postgres,hibernate,git,github&theme=dark" />
+  </a>
+</p>
 </div>
