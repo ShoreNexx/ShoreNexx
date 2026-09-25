@@ -1,10 +1,10 @@
 <div align="center">
-  
-## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"/>   I'm **Sahil Mhatre** 
-*Passionate developer crafting digital experiences*
+
+<a href="https://github.com/ShoreNexx">
+  <img src="https://readme-typing-svg.demolab.com/?font=Comic+Sans+MS&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Hey+There!;I+am+Sahil+Mhatre;Passionate+developer+crafting+digital+experiences" alt="Typing SVG" />
+</a>
 
 </div>
-
 
 
 ## 🚀 About Me
