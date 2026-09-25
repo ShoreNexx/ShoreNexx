@@ -7,26 +7,11 @@
 </div>
 
 
-## 🚀 About Me
 
-```bash
-shorenexx@github
-Whoami:.................... Sahil Mhatre
-OS: ....................... Pop os 24.04 LTS, Windows 11
+![Sahil Mhatre - About Me](./assets/banner.svg)
 
-Languages.Programming: .... Java, JavaScript
-Languages.Web: ............ HTML, CSS, React
-Languages.Database: ....... OracleSQL, PostgreSQL
-
-Java.Backend: ............. JDBC, Hibernate
-Languages.Real: ........... English, Marathi, Hindi
-
-Focus.Current: ............ Full-stack Development & DevOps
-Focus.Learning: ........... Backend & Cloud Architecture
-
-```
-
-## 🛠️ Tech Stack
+---
+## Tech Stack
 
 <div>
   <p align="center">
