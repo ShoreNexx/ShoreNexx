@@ -10,7 +10,7 @@
 
 ![Sahil Mhatre - About Me](./assets/banner.svg)
 
----
+
 ## Tech Stack
 
 <div>
